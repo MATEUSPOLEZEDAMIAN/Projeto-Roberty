@@ -55,3 +55,7 @@
  .botoes{
     display:block
  }
+.ativo{
+  background-color: var(--verde);
+  border-bottom: 4px solid var(--verde) ;
+}
